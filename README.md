@@ -12,7 +12,7 @@
 
 - 🔥 Passionate about **offensive security**, **pentesting**, and **red teaming**  
 - 🛠️ Skilled in **Web Security, Exploit Development, Malware Analysis, and Infrastructure Security**  
-- 🏁 Active **CTF player**, solving challenges in **Forensics, Web, AD, and Reverse Engineering**  
+- 🏁 Active **CTF player**, solving challenges in **Web, AD, Forensics, OSINT and Hardware**  
 - ☁️ **DevOps & Cloud Enthusiast**, working with **Kubernetes, Terraform, and CI/CD automation**  
 - 📚 Always learning and sharing my **CTF write-ups, tools, and security research**  
 
@@ -27,7 +27,7 @@
 ## ⚙️ Tech Stack  
 
 💻 **Languages:** Python, Bash, Java, JavaScript, C++  
-🔒 **Security:** Burp Suite, Nmap, Metasploit, C2 Frameworks  
+🔒 **Security:** Exegol, Burp Suite, Nmap, Metasploit, Hashcat, Bloodhound
 ☁️ **DevOps & Cloud:** Docker, Kubernetes, Terraform, CI/CD  
 📡 **Pentest & CTF:** Web Security, Forensics, Hardware, OSINT
 
